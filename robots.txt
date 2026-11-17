@@ -5,4 +5,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://michigan-man-1m-lottery.com/sitemap.xml
+Sitemap: https://zivalina905-ux.github.io/michigan-man-1m-lottery/sitemap.xml
