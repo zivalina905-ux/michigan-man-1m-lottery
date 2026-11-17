@@ -1,0 +1,8 @@
+# robots.txt — michigan-man-1m-lottery.com
+# Semua crawler diizinkan mengindeks seluruh halaman.
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://michigan-man-1m-lottery.com/sitemap.xml
